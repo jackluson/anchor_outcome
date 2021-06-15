@@ -1,0 +1,11 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+code-record/*
+!.gitkeep
+*.py[cod]
+*$py.class
+.vscode/
+
+# Distribution / packaging
+.Python
+.DS_Store
