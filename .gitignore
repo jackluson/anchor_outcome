@@ -5,6 +5,7 @@ code-record/*
 *.py[cod]
 *$py.class
 .vscode/
+*.sql
 
 # Distribution / packaging
 .Python
